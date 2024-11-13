@@ -1,1 +1,8 @@
-momm
+student, assignment, submission status
+here, Shell Navigation, submitted
+Tessy, Shell Navigation, not submitted
+Jacob, Shell Navigation, submitted
+elohe, Shell Navigation, submitted
+lyn, Shell Navigation, not submitted
+Jenifer, Shell Navigation, not submitted
+laura, Shell Navigation, submitted
